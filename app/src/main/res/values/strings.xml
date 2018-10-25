@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Projeto_21604636</string>
+    <string name="text1">Cilindrada (cm3)</string>
+    <string name="text2">Emissões (CO2  g/km)</string>
+    <string name="menor_igual_1250">até 1.250</string>
+    <string name="maior_1250_menor_igual_1750">maior que 1.250 até 1.750</string>
+    <string name="maior_1750_menor_igual_2500">maior que 1.750 até 2.500</string>
+    <string name="maior_2500">maior que 2.500</string>
+    <string name="menor_igual_120">até 120</string>
+    <string name="maior_120_menor_igual_180">maior que 120 até 180</string>
+    <string name="maior_180_menor_igual_250">maior que 180 até 250</string>
+    <string name="maior_250">maior que 250</string>
+    <string name="Calcular">Calcular IUC</string>
+    <string name="resultado_final">IUC</string>
+    <string name="terminar">Terminar</string>
+    <string name="regressar">Regressar</string>
+    <string name="resultado_display">O valor Total a pagar é:</string>
+    <string name="segunda_ativity">SubAtividadeCalculoIUC</string>
+
+</resources>
